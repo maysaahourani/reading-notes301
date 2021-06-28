@@ -22,3 +22,17 @@ What is the HTTP protocol that Fielding and his friends created?Links to an exte
 HTTP = Hypertext Transfer Protocol. This protocol follows a request-response protocol A web browser makes a request and ‘gets’ the data from the server
 
 GET what the browser’s main action verb is. It gets information. A machine gets machine-readable info and the browser gets the human readable info. POST a system adding something to another system PATCH a system doing a partial update of another PUT a system replacing something in another system
+
+
+
+get ?
+GET is used to retrieve and request data from a specified resource in a server. GET is one of the most popular HTTP request techniques. In simple words, the GET method is used to retrieve whatever information is identified by the Request-URL.
+
+POST ?
+POST (Power-On Self-Test) is the diagnostic testing sequence that a computer’s basic input/output system (or “starting program”) runs to determine if the computer keyboard, random access memory, disk drives, and other hardware are working correctly.
+
+PUT ?
+PUT method is used to update resource available on the server. Typically, it replaces whatever exists at the target URL with something else. You can use it to make a new resource or overwrite an existing one
+
+patch ?
+A patch is a set of changes to a computer program or its supporting data designed to update, fix, or improve it. This includes fixing security vulnerabilities and other bugs, with such patches usually being called bugfixes or bug fixes.
